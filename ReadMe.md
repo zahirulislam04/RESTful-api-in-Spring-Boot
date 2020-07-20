@@ -1,6 +1,6 @@
 # A sample RESTful api in Spring Boot
 
-** Following tools are used **
+**Following tools are used**
 
 - Spring Boot
 - Spring Data JPA
