@@ -1,0 +1,6 @@
+INSERT INTO PRODUCTS(id,product_Name,product_Code,product_Manufacturer) VALUES(1,'PROD-01','P-00589','ABC CORP')
+INSERT INTO PRODUCTS(id,product_Name,product_Code,product_Manufacturer) VALUES(2,'PROD-02','P-00929','ZXCA CORP')
+INSERT INTO PRODUCTS(id,product_Name,product_Code,product_Manufacturer) VALUES(3,'PROD-03','P-00983','ZSG CORP')
+INSERT INTO PRODUCTS(id,product_Name,product_Code,product_Manufacturer) VALUES(4,'PROD-04','P-00932','XYZ CORP')
+INSERT INTO PRODUCTS(id,product_Name,product_Code,product_Manufacturer) VALUES(5,'PROD-05','P-002324','GHDK CORP')
+INSERT INTO PRODUCTS(id,product_Name,product_Code,product_Manufacturer) VALUES(6,'PROD-06','P-00009','YADHSF')
